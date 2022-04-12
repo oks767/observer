@@ -1,0 +1,7 @@
+.item__img{
+    transform: translateX(-100%) ;
+}
+.item__img--active{
+    transform: translateX(0);
+    transition: 1s;
+}
